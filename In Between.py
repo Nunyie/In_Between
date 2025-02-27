@@ -60,7 +60,7 @@ def play_in_between():
                 print("Not enough cards left to continue the game.")
                 break
 
-        print(f"Final Score: {player_score}")
+            print(f"Final Score: {player_score}")
 
 # Define the deck of cards
 suits = ['Hearts', 'Diamonds', 'Clubs', 'Spades']
